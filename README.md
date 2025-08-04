@@ -1,6 +1,6 @@
 # 🧠 VGG16-Based Image Classification Framework
 
-**Author**: Dr. Amit Chougule  
+**Author**: `Dr. Amit Chougule, PhD`  
 **Date**: 25/07/2025
 
 ---
