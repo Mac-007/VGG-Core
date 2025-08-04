@@ -5,9 +5,7 @@
 
 ---
 
-VGG16-based image classification system with a modular PyTorch design.  
-Integrates early stopping to minimize overfitting and robust generalization on domain-specific datasets.  
-Includes standalone testing scripts for batch inference and performance evaluation.
+VGG16-based image classification system with a modular PyTorch design. Integrates early stopping to minimize overfitting and robust generalization on domain-specific datasets. Includes standalone testing scripts for batch inference and performance evaluation.
 
 ---
 
@@ -37,12 +35,11 @@ Includes standalone testing scripts for batch inference and performance evaluati
 - Model saving (best and final)
 
 ---
-```
+
 
 ## 🗂️ Project Structure
 
 ```
-
 project/
 │
 ├── Data_Dir/
