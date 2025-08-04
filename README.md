@@ -36,6 +36,7 @@ Includes standalone testing scripts for batch inference and performance evaluati
 - Model saving (best and final)
 
 ---
+```
 
 ## 🗂️ Project Structure
 
