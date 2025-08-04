@@ -1,4 +1,3 @@
-```markdown
 # 🧠 VGG16-Based Image Classification Framework
 
 **Author**: Dr. Amit Chougule  
@@ -13,7 +12,7 @@ Includes standalone testing scripts for batch inference and performance evaluati
 ---
 
 ## 🔍 Key Contributions & Importance
-```
+
 - **Modular VGG16 Framework**: Offers a clean, modular implementation of VGG16 for image classification using PyTorch, easily extensible to different domains and tasks.
 
 - **Research-Ready Pipeline**: Implements a robust training loop with early stopping, validation tracking, and model checkpointing — aligning with best practices in deep learning research.
@@ -23,11 +22,11 @@ Includes standalone testing scripts for batch inference and performance evaluati
 - **Overfitting Mitigation via Early Stopping**: Integrates early stopping based on validation performance, making the pipeline robust against overfitting and noisy datasets.
 
 - **Inference-Ready Deployment**: Includes a standalone testing script with confidence scoring, supporting practical batch inference across varied image formats.
-```
+
 ---
 
 ## 🔧 Features
-```
+
 - Transfer learning using pretrained VGG16 (from `torchvision`)
 - Modular training pipeline using PyTorch
 - Custom classifier head for binary classification
