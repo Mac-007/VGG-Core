@@ -1,9 +1,9 @@
 
 # Training Script for VGG16 Image Classifier with Early Stopping
 
-This project implements an image classifier using a pre-trained VGG16 model, fine-tuned for image classification. It includes early stopping to prevent overfitting and saves the best performing model.
+This training script implements an image classifier using a pre-trained VGG16 model, fine-tuned for image classification. It includes early stopping to prevent overfitting and saves the best performing model.
 
-**Author**: Dr. Amit Chougule  
+**Author**: `Dr. Amit Chougule, PhD`  
 **Date**: 25/07/2025
 
 ---
