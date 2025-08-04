@@ -1,5 +1,4 @@
 
-```markdown
 # Training Script for VGG16 Image Classifier with Early Stopping
 
 This project implements an image classifier using a pre-trained VGG16 model, fine-tuned for image classification. It includes early stopping to prevent overfitting and saves the best performing model.
@@ -36,8 +35,10 @@ project/
 │
 ├── training/
 │ └── train.py # Training script
+│
 ├── testing/
 │ └── test.py # Testing script
+│
 ├── vgg16_best_model.pth # Saved best model (after training)
 ├── vgg16_image_classifier.pth # Final model (last epoch)
 └── accuracy_plot.png # Accuracy plot
