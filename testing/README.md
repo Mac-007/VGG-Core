@@ -2,7 +2,7 @@
 
 This script performs image classification using a trained VGG16 model on a folder of test images. It loads model weights, runs inference on each image in the specified directory, and outputs the predicted class along with confidence scores.
 
-**Author**: `Dr. Amit Chougule, PhD` 
+**Author**: `Dr. Amit Chougule, PhD`  
 **Date**: 25/07/2025
 
 ---
