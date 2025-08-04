@@ -52,8 +52,10 @@ project/
 │
 ├── training/
 │ └── train.py # Training script
+│
 ├── testing/
 │ └── test.py # Testing script
+│
 ├── vgg16_best_model.pth # Saved best model (after training)
 ├── vgg16_image_classifier.pth # Final model (last epoch)
 └── accuracy_plot.png # Accuracy plot
